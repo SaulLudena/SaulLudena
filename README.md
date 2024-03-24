@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saul</h1>
+<div align="flex">
+  <h1 align="center">Hi 👋, I'm Saul</h1>
 <h3 align="center">A passionate FullStack developer from Lima-Peru</h3>
+</div>
 
 - 🔭 I’m currently working on **CatBot, a webapp where you can generate brochures simply**
 
