@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sandy-alpha.vercel.app](https://my-portfolio-sandy-alpha.vercel.app)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-sandy-alpha.vercel.app](https://sauldev.vercel.app)
 
 - 📫 How to reach me **cornejo758@gmail.com**
 
